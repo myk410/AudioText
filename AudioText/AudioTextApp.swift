@@ -11,7 +11,8 @@ import SwiftUI
 struct AudioTextApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ChapterDetailView()
+                
         }
     }
 }
